@@ -59,3 +59,4 @@ then
     yay ${use_default} -S $pkg_aur
 fi
 
+yay -S waybar

@@ -8,7 +8,6 @@
     "security.workspace.trust.startupPrompt": "never",
     "security.workspace.trust.enabled": false,
     "workbench.sideBar.location": "right",
-    "editor.minimap.side": "left",
     "editor.fontFamily": "'Maple Mono', 'monospace', monospace",
-    "editor.minimap.scale": 2
+    "editor.minimap.scale": 1
 }
